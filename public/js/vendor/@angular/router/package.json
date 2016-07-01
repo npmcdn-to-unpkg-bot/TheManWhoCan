@@ -2,7 +2,7 @@
   "_args": [
     [
       "@angular/router@2.0.0-rc.1",
-      "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC"
+      "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion"
     ]
   ],
   "_from": "@angular/router@2.0.0-rc.1",
@@ -36,7 +36,7 @@
   "_shasum": "96f3868884e151fe8bac07ac7e1b4ec0ad07db77",
   "_shrinkwrap": null,
   "_spec": "@angular/router@2.0.0-rc.1",
-  "_where": "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC",
+  "_where": "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion",
   "author": {
     "name": "angular"
   },

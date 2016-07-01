@@ -2,7 +2,7 @@
   "_args": [
     [
       "es6-shim@^0.35.0",
-      "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC"
+      "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion"
     ]
   ],
   "_from": "es6-shim@>=0.35.0 <0.36.0",
@@ -36,7 +36,7 @@
   "_shasum": "a23524009005b031ab4a352ac196dfdfd1144ab7",
   "_shrinkwrap": null,
   "_spec": "es6-shim@^0.35.0",
-  "_where": "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC",
+  "_where": "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion",
   "author": {
     "name": "Paul Miller",
     "url": "http://paulmillr.com"

@@ -2,7 +2,7 @@
   "_args": [
     [
       "moment@2.13.0",
-      "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC/node_modules/ng2-bootstrap"
+      "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion\\node_modules\\ng2-bootstrap"
     ]
   ],
   "_from": "moment@2.13.0",
@@ -35,7 +35,7 @@
   "_shasum": "24162d99521e6d40f99ae6939e806d2139eaac52",
   "_shrinkwrap": null,
   "_spec": "moment@2.13.0",
-  "_where": "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC/node_modules/ng2-bootstrap",
+  "_where": "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion\\node_modules\\ng2-bootstrap",
   "author": {
     "email": "iskren.chernev@gmail.com",
     "name": "Iskren Ivov Chernev",

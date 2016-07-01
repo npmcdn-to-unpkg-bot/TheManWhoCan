@@ -2,7 +2,7 @@
   "_args": [
     [
       "@angular/platform-browser@2.0.0-rc.1",
-      "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC"
+      "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion"
     ]
   ],
   "_from": "@angular/platform-browser@2.0.0-rc.1",
@@ -36,7 +36,7 @@
   "_shasum": "df97549f72f042d1c1180ebd451eb676416e40f8",
   "_shrinkwrap": null,
   "_spec": "@angular/platform-browser@2.0.0-rc.1",
-  "_where": "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC",
+  "_where": "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion",
   "author": {
     "name": "angular"
   },

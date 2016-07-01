@@ -2,7 +2,7 @@
   "_args": [
     [
       "rxjs@5.0.0-beta.6",
-      "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC"
+      "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion"
     ]
   ],
   "_from": "rxjs@5.0.0-beta.6",
@@ -36,7 +36,7 @@
   "_shasum": "cb6dc46d6ddfedfeefc9b15dafd09c34a4370d23",
   "_shrinkwrap": null,
   "_spec": "rxjs@5.0.0-beta.6",
-  "_where": "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC",
+  "_where": "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion",
   "author": {
     "email": "blesh@netflix.com",
     "name": "Ben Lesh"

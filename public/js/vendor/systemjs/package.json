@@ -2,7 +2,7 @@
   "_args": [
     [
       "systemjs@0.19.27",
-      "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC"
+      "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion"
     ]
   ],
   "_from": "systemjs@0.19.27",
@@ -36,7 +36,7 @@
   "_shasum": "f1740d565ce64371ac0de7072a4d1e5471ba7ba2",
   "_shrinkwrap": null,
   "_spec": "systemjs@0.19.27",
-  "_where": "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC",
+  "_where": "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion",
   "author": {
     "name": "Guy Bedford"
   },

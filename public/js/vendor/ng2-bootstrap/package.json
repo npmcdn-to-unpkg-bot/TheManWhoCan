@@ -2,7 +2,7 @@
   "_args": [
     [
       "ng2-bootstrap@^1.0.17",
-      "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC"
+      "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion"
     ]
   ],
   "_from": "ng2-bootstrap@>=1.0.17 <2.0.0",
@@ -36,7 +36,7 @@
   "_shasum": "474f987ec14e9c2bb2d5ad3dc22bbc10db1eaca1",
   "_shrinkwrap": null,
   "_spec": "ng2-bootstrap@^1.0.17",
-  "_where": "/Volumes/My Book/Tutorials/Udemy/Angular 2 + Node (MEAN 2.0)/02 Release/02 NodeJS/01 Installation and Project Setup/Seed Project RC",
+  "_where": "C:\\Users\\Aaron\\Desktop\\MEAN Stack\\TheManWhoCan\\DevVersion",
   "author": {
     "email": "valorkin@gmail.com",
     "name": "Dmitriy Shekhovtsov"
