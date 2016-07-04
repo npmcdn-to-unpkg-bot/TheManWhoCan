@@ -2,9 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
     selector: 'my-summary',
-    template: `
-        <h1>Summary Of Site</h1>
-    `
+    templateUrl: 'html/blogs/summary.component.html'
 })
 export class SummaryComponent {
 

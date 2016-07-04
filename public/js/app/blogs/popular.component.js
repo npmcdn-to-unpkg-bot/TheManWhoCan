@@ -15,7 +15,7 @@ var PopularComponent = (function () {
     PopularComponent = __decorate([
         core_1.Component({
             selector: 'popular-blogs',
-            template: "<h1>Group of popular blogs</h1>"
+            templateUrl: 'html/blogs/popular.component.html'
         }), 
         __metadata('design:paramtypes', [])
     ], PopularComponent);
@@ -23,4 +23,4 @@ var PopularComponent = (function () {
 }());
 exports.PopularComponent = PopularComponent;
 
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJsb2dzL3BvcHVsYXIuY29tcG9uZW50LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7QUFBQSxxQkFBMEIsZUFBZSxDQUFDLENBQUE7QUFPMUM7SUFBQTtJQUVBLENBQUM7SUFQRDtRQUFDLGdCQUFTLENBQUM7WUFDUCxRQUFRLEVBQUUsZUFBZTtZQUN6QixRQUFRLEVBQUUsaUNBQWlDO1NBQzlDLENBQUM7O3dCQUFBO0lBSUYsdUJBQUM7QUFBRCxDQUZBLEFBRUMsSUFBQTtBQUZZLHdCQUFnQixtQkFFNUIsQ0FBQSIsImZpbGUiOiJibG9ncy9wb3B1bGFyLmNvbXBvbmVudC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IENvbXBvbmVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xyXG5cclxuQENvbXBvbmVudCh7XHJcbiAgICBzZWxlY3RvcjogJ3BvcHVsYXItYmxvZ3MnLFxyXG4gICAgdGVtcGxhdGU6IGA8aDE+R3JvdXAgb2YgcG9wdWxhciBibG9nczwvaDE+YFxyXG59KVxyXG5cclxuZXhwb3J0IGNsYXNzIFBvcHVsYXJDb21wb25lbnR7XHJcblxyXG59Il0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJsb2dzL3BvcHVsYXIuY29tcG9uZW50LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7QUFBQSxxQkFBMEIsZUFBZSxDQUFDLENBQUE7QUFPMUM7SUFBQTtJQUVBLENBQUM7SUFQRDtRQUFDLGdCQUFTLENBQUM7WUFDUCxRQUFRLEVBQUUsZUFBZTtZQUN6QixXQUFXLEVBQUUsbUNBQW1DO1NBQ25ELENBQUM7O3dCQUFBO0lBSUYsdUJBQUM7QUFBRCxDQUZBLEFBRUMsSUFBQTtBQUZZLHdCQUFnQixtQkFFNUIsQ0FBQSIsImZpbGUiOiJibG9ncy9wb3B1bGFyLmNvbXBvbmVudC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IENvbXBvbmVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xyXG5cclxuQENvbXBvbmVudCh7XHJcbiAgICBzZWxlY3RvcjogJ3BvcHVsYXItYmxvZ3MnLFxyXG4gICAgdGVtcGxhdGVVcmw6ICdodG1sL2Jsb2dzL3BvcHVsYXIuY29tcG9uZW50Lmh0bWwnIFxyXG59KVxyXG5cclxuZXhwb3J0IGNsYXNzIFBvcHVsYXJDb21wb25lbnR7XHJcblxyXG59Il0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9

@@ -32,7 +32,6 @@ import { ROUTER_DIRECTIVES } from '@angular/router';
                     </form>
                     <ul class="nav navbar-nav navbar-right">
                         <li><a [routerLink]="['/about']">About Me</a></li>
-                        <li><a [routerLink]="['/contact']">Contact</a></li>
                         <li>  
                             <p class="navbar-btn">
                                 <a [routerLink]="['/authenticate']" class="btn btn-info">Login</a>

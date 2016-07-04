@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
     selector: 'popular-blogs',
-    template: `<h1>Group of popular blogs</h1>`
+    templateUrl: 'html/blogs/popular.component.html' 
 })
 
 export class PopularComponent{

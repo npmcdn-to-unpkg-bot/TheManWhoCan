@@ -4,7 +4,6 @@ import { HeaderComponent } from './header.component';
 import { HomeComponent } from './blogs/home.component';
 import { SidebarComponent } from './misc/sidebar.component';
 import { BlogsComponent } from './blogs/blogs.component';
-import { ContactComponent } from './misc/contact.component';
 import { AboutComponent } from './misc/about.component';
 
 
@@ -29,8 +28,7 @@ import { AboutComponent } from './misc/about.component';
 @Routes([
     { path: '/', component: HomeComponent },
     { path: '/blogs', component: BlogsComponent },
-    { path: '/about', component: AboutComponent },
-    { path: '/contact', component: ContactComponent }
+    { path: '/about', component: AboutComponent }
 ])
 
 export class AppComponent {

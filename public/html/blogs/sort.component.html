@@ -1,0 +1,16 @@
+<form>
+    <span>Sort by:</span>
+    <div (click)="dateClicked()">
+        Date
+    </div>
+    <div (click)="popClicked()">
+        Popularity
+    </div>
+</form>
+
+<div *ngIf="date">
+    Value is date
+</div>
+<div *ngIf="!date">
+    Value is popularity
+</div>

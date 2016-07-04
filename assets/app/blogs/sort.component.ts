@@ -2,9 +2,15 @@ import { Component } from '@angular/core';
 
 @Component({
     selector: 'sort-blogs',
-    template: 'This is sorting the blog blog posts'
+    templateUrl: 'html/blogs/sort.component.html'
 })
 
 export class SortComponent{
-    
+    date= true;
+    dateClicked(){
+        this.date = true;
+    }
+    popClicked(){
+        this.date = false;
+    }
 }

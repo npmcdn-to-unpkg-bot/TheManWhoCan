@@ -15,7 +15,7 @@ var RecentComponent = (function () {
     RecentComponent = __decorate([
         core_1.Component({
             selector: 'recent-blogs',
-            template: "\n        <h1>My recent blogs</h1>\n    "
+            templateUrl: 'html/blogs/recent.component.html'
         }), 
         __metadata('design:paramtypes', [])
     ], RecentComponent);
@@ -23,4 +23,4 @@ var RecentComponent = (function () {
 }());
 exports.RecentComponent = RecentComponent;
 
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJsb2dzL3JlY2VudC5jb21wb25lbnQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUFBLHFCQUEwQixlQUFlLENBQUMsQ0FBQTtBQVExQztJQUFBO0lBR0EsQ0FBQztJQVREO1FBQUMsZ0JBQVMsQ0FBQztZQUNQLFFBQVEsRUFBRSxjQUFjO1lBQ3hCLFFBQVEsRUFBRSwwQ0FFVDtTQUNKLENBQUM7O3VCQUFBO0lBSUYsc0JBQUM7QUFBRCxDQUhBLEFBR0MsSUFBQTtBQUhZLHVCQUFlLGtCQUczQixDQUFBIiwiZmlsZSI6ImJsb2dzL3JlY2VudC5jb21wb25lbnQuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBDb21wb25lbnQgfSBmcm9tICdAYW5ndWxhci9jb3JlJztcclxuXHJcbkBDb21wb25lbnQoe1xyXG4gICAgc2VsZWN0b3I6ICdyZWNlbnQtYmxvZ3MnLFxyXG4gICAgdGVtcGxhdGU6IGBcclxuICAgICAgICA8aDE+TXkgcmVjZW50IGJsb2dzPC9oMT5cclxuICAgIGBcclxufSlcclxuZXhwb3J0IGNsYXNzIFJlY2VudENvbXBvbmVudCB7XHJcblxyXG5cclxufSJdLCJzb3VyY2VSb290IjoiL3NvdXJjZS8ifQ==
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImJsb2dzL3JlY2VudC5jb21wb25lbnQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUFBLHFCQUEwQixlQUFlLENBQUMsQ0FBQTtBQU0xQztJQUFBO0lBR0EsQ0FBQztJQVBEO1FBQUMsZ0JBQVMsQ0FBQztZQUNQLFFBQVEsRUFBRSxjQUFjO1lBQ3hCLFdBQVcsRUFBRSxrQ0FBa0M7U0FDbEQsQ0FBQzs7dUJBQUE7SUFJRixzQkFBQztBQUFELENBSEEsQUFHQyxJQUFBO0FBSFksdUJBQWUsa0JBRzNCLENBQUEiLCJmaWxlIjoiYmxvZ3MvcmVjZW50LmNvbXBvbmVudC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IENvbXBvbmVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xyXG5cclxuQENvbXBvbmVudCh7XHJcbiAgICBzZWxlY3RvcjogJ3JlY2VudC1ibG9ncycsXHJcbiAgICB0ZW1wbGF0ZVVybDogJ2h0bWwvYmxvZ3MvcmVjZW50LmNvbXBvbmVudC5odG1sJ1xyXG59KVxyXG5leHBvcnQgY2xhc3MgUmVjZW50Q29tcG9uZW50IHtcclxuXHJcblxyXG59Il0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9
