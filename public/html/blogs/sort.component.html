@@ -9,8 +9,10 @@
 </form>
 
 <div *ngIf="date">
-    Value is date
+    <my-sort-date *ngFor="let blog of blogs" [blog]="blog"></my-sort-date>
 </div>
+
+
 <div *ngIf="!date">
-    Value is popularity
+    <my-sort-popularity *ngFor="let blog of blogs" [blog]="blog"></my-sort-popularity>
 </div>
