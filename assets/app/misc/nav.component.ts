@@ -46,7 +46,46 @@ import { ROUTER_DIRECTIVES } from '@angular/router';
                 </div>
             </div>
         </nav> <!-- Navbar End -->
+
+    <!-- <nav>
+        <ul>
+            <a [routerLink]="['/']"><li class="nav-item"><i class="glyphicon glyphicon-check"></i> TheManWhoCan</li></a>
+            <a [routerLink]="['/']"><li class="nav-item">Home</li></a>
+            <a [routerLink]="['/blogs']"><li class="nav-item">Blogs</li></a>
+            <a [routerLink]="['/about']"><li class="nav-item">About</li></a>
+        </ul>
+    </nav> -->
     `,
+    // styles: [`
+    //     nav .nav-item {
+    //         list-style: none;
+    //         display: inline-block;
+    //         width: 24.5%;
+    //         text-align: center;
+    //         font-size: 20px;
+    //     }
+
+    //     nav ul {
+    //         padding: 0;
+    //         margin: 20px auto;
+    //         width: 50%;
+    //     }
+
+    //     nav a{
+    //         text-decoration: none;
+    //         color: inherit;
+    //     }
+
+    //     nav {
+    //         background-color: rgba(0, 195, 195, 1);
+    //         padding: 2px;
+    //         margin: 0;
+    //         border-radius: 0 0 10px 10px;
+    //         -webkit-border-radius: 0 0 10px 10px;
+    //         -moz-border-radius: 0 0 10px 10px;
+    //     }
+    
+    // `],
     directives: [ ROUTER_DIRECTIVES ]
 })
 export class NavComponent {

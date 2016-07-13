@@ -24,6 +24,13 @@ export class SortComponent implements OnInit {
     blogs: Blog[];
 
     ngOnInit(){
-        this.blogs = this._blogService.getBlogs();
+        this._blogService.getBlogs()
+            .subscribe(
+                blogs => {
+                    this.blogs = blogs;
+                    console.log(blogs);
+                    // this._blogService.blogs = blogs;
+                }
+            );
     }
 }
